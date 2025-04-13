@@ -12,6 +12,8 @@ because of issue in block scope and functional scope
 
 {  scope  }
 */
+//tc39
+//mdn
 let aaa;
 
 //aaa is undefined

@@ -8,6 +8,7 @@
 // null => standalone CSSMathValue
 // symbol => unique
 
-console.log(typeof null)
+console.log(typeof null);
+console.log(typeof "skk");
 
 //null is object
